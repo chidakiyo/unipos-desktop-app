@@ -9,10 +9,10 @@
 npm install nativefier -g
 ```
 
-## アイコンの生成
+## Mac版アプリのbuild
 
 ```
-make build-all
+make build-mac
 ```
 
 ## License
