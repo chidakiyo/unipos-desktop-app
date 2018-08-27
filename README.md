@@ -1,7 +1,11 @@
 # unipos-desktop-app
 （非公式）Uniposのデスクトップクライアント
 
-## 必要なライブラリ
+## ダウンロード
+
+[こちら](https://github.com/chidakiyo/unipos-desktop-app/releases) から
+
+## 自前でbuildするのに必要なライブラリ
 
 - nativefier
 
